@@ -1,5 +1,5 @@
 ![Grafana](docs/logo-horizontal.png)
-zzzvvv
+zzzvvvz
 The open-source platform for monitoring and observability.
 
 [![License](https://img.shields.io/github/license/grafana/grafana)](LICENSE)
